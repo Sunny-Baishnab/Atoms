@@ -1,0 +1,13 @@
+{
+  "0":{
+    "element_name": "Na",
+    "barCode_Value": 2 ,
+    "number_of_electrons":1
+  },
+
+  "1":{
+    "element_name": "Cl",
+    "barCode_Value": 5 ,
+    "number_of_electrons":7
+  }
+}
